@@ -19,8 +19,8 @@ pragma solidity 0.8.18;
 contract pranavToken {
 
     // public variables here
-    string public tokenName = "METAVERSE";
-    string public tokenAbbrv = "MTS";
+    string public tokenName = "SOLIDITY";
+    string public tokenAbbrv = "SOL";
     uint public totalSupply = 0;
     // mapping variable here
     mapping(address => uint) public balances;
